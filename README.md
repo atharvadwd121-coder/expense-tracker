@@ -43,3 +43,30 @@ When you run the code, a menu pops up with several choices listed out.
 - Picking option 4 plots the expenses graph. A window opens up showing a line graph of your spending. Remember to add at least one expense first, or it will not work.
 
 - Option 5 lets you exit. That closes the whole application down.
+
+
+
+## Top down design for the algorithm of this code -
+[ Main Program ]
+       |
+       +--- [ Initialization ] (Imports, Global List)
+       |
+       +--- [ Main Loop ]
+               |
+               +--- 1. [ Add Expense ]
+               |        |-- Input Float
+               |        |-- Append Dict
+               |
+               +--- 2. [ View Expenses ]
+               |        |-- Check Empty
+               |        |-- Loop & Print
+               |
+               +--- 3. [ Show Total ]
+               |        |-- Sum Algorithm
+               |
+               +--- 4. [ Plot Graph ]
+               |        |-- List Comprehension
+               |        |-- Matplotlib Config
+               |
+               +--- 5. [ Exit ]
+
