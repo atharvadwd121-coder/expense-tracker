@@ -62,25 +62,25 @@ When you run the code, a menu pops up with several choices listed out.
 
 ```
 [ Main Program ]
-
-    [ Initialization ] (Imports, Global List)
-
-    [ Main Loop ]
-
-        [ Add Expense ]
-            Input Float
-            Append Dict
-
-        [ View Expenses ]
-            Check Empty
-            Loop & Print
-
-        [ Show Total ]
-            Sum Algorithm
-
-        [ Plot Graph ]
-            List Comprehension
-            Matplotlib Config
-
-        [ Exit ]
+   |
+   +--- [ Initialization ] (Imports, Global List)
+   |
+   +--- [ Main Loop ]
+        |
+        +--- 1. [ Add Expense ]
+        |      |-- Input Float
+        |      |-- Append Dict
+        |
+        +--- 2. [ View Expenses ]
+        |      |-- Check Empty
+        |      |-- Loop & Print
+        |
+        +--- 3. [ Show Total ]
+        |      |-- Sum Algorithm
+        |
+        +--- 4. [ Plot Graph ]
+        |      |-- List Comprehension
+        |      |-- Matplotlib Config
+        |
+        +--- 5. [ Exit ]
 ```
