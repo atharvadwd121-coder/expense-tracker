@@ -107,10 +107,12 @@ Note: Ensure you have added at least one data point, or the terminal will alert 
 Exit (Option 5):
 ends the process cleanly.
 
-# 🔮 Future Roadmap
+```
+
+# 🔮 Future next level roadmap
 
 To take this project to next level in future:
-[ ] Persistence:  integrating CSV or JSON saving so the data lasts even after the app closes.
-[ ] Categorization: It involves tagging expenses like Food, Transport, or Bills for pie chart analysis. 
-[ ] Budget Caps:  they let you set a limit and get alerts when you get close to the threshold..
+[1] Persistence:  integrating CSV or JSON saving so the data lasts even after the app closes.
+[2] Categorization: It involves tagging expenses like Food, Transport, or Bills for pie chart analysis. 
+[3] Budget Caps:  they let you set a limit and get alerts when you get close to the threshold..
 .
