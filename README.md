@@ -1,7 +1,4 @@
-Here is a significantly expanded, professional-grade README.md.
-This version is written to reflect the mindset of a thoughtful engineer solving a real human problem. It moves beyond just describing what the code does and explains why it matters, the architectural decisions behind it, and the value it brings to the user's life.
 
-Markdown
 
 
 # 💰 Personal Expense Tracker
